@@ -2,7 +2,7 @@
 {
     "editor.fontFamily": "'Inconsolata', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
     "editor.fontSize": 16,
-    "editor.lineHeight": 25.6,
+    "editor.lineHeight": 24,
     "editor.renderWhitespace": "boundary",
     "[cpp]": {
         "editor.quickSuggestions": false
